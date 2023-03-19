@@ -1,0 +1,15 @@
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\bin\Debug\net7.0\Task43.exe
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\bin\Debug\net7.0\Task43.deps.json
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\bin\Debug\net7.0\Task43.runtimeconfig.json
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\bin\Debug\net7.0\Task43.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\bin\Debug\net7.0\Task43.pdb
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\Task43.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\Task43.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\Task43.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\Task43.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\Task43.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\Task43.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\refint\Task43.dll
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\Task43.pdb
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\Task43.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\HomeWork\CSharp6\Task43\obj\Debug\net7.0\ref\Task43.dll
